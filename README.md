@@ -114,6 +114,7 @@ Welcome to **SentimentScope**, a web-based NLP application that predicts sentime
 | 🧠 Prediction  | Use trained ML model to classify the sentiment as Positive or Negative |
 
 ---
+<img width="941" height="434" alt="image" src="https://github.com/user-attachments/assets/3ccf79f9-104d-4be5-9d85-31755c781c9b" />
 
 
 
