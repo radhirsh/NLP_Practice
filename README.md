@@ -1,6 +1,6 @@
 
 
-## 📘 `README.md` — SentimentScope: Real-Time Emotion Analyzer
+## 📘 SentimentScope: Real-Time Emotion Analyzer
 
 ````markdown
 # 🤖 SentimentScope: Real-Time Emotion Analyzer
