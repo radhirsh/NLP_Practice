@@ -144,8 +144,8 @@ Welcome to **SentimentScope**, a web-based NLP application that predicts sentime
 ## 📬 Contact
 
 👨‍💻 Developed by: **Sridhar S**
-🔗 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/sridhar-s-076337178/)
-📧 Email: [your.email@example.com](mailto:sridharsukumar888@gmail.com)
+🔗 LinkedIn: [Sridhar.S](https://www.linkedin.com/in/sridhar-s-076337178/)
+📧 Email: [sridharsukumar888@gmail.com](mailto:sridharsukumar888@gmail.com)
 
 
 
